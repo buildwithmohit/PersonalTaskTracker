@@ -29,9 +29,6 @@ A simple, responsive React-based personal task manager for creating, tracking, a
 
 ## 🔗 Live Demo
 
-[Your deployed app link here]
+http://localhost:3000/
 
-## 🖼 Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)# PersonalTaskTracker
